@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/183bbb6f-67a6-43b8-837d-64b15e2f6246)# Ex02 Django ORM Web Application
+ Ex02 Django ORM Web Application
 # Date:
 # AIM
 To develop a Django application to store and retrieve data from a bank loan database using Object Relational Mapping(ORM).
