@@ -42,5 +42,7 @@ admin.site.register(Bankloan,BankloanAdmin)
 ![Screenshot 2024-12-07 220439](https://github.com/user-attachments/assets/56d025a4-e0f7-4753-89c3-82a0e8a11b57)
 
 
+
+
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
